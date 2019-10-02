@@ -1,6 +1,8 @@
 # star-wars-crawl
 
-![Star Wars Background]()
+Check out my css :smile:
+
+![Star Wars Background](https://github.com/YelenaMerzlyakova/star-wars-crawl/blob/master/starwars.png)
 
 ## Objectives
 
