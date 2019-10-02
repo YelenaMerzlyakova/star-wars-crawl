@@ -1,8 +1,5 @@
 # star-wars-crawl
 
-Check out my css :smile:
-
-![Star Wars Background](https://github.com/YelenaMerzlyakova/star-wars-crawl/blob/master/starwars.png)
 
 ## Objectives
 
@@ -27,4 +24,6 @@ Create a webpage that reproduces the text crawl at the beginning of the star war
 
 ## Result 
 
-Check out my css! 
+[Check out my css!](https://github.com/YelenaMerzlyakova/star-wars-crawl/blob/master/style.css) :smile:
+
+![Star Wars Background](https://github.com/YelenaMerzlyakova/star-wars-crawl/blob/master/starwars.png)
