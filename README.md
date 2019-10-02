@@ -1,4 +1,6 @@
-# star-wars-crawl
+# Star Wars Crawl
+
+**[Click me](https://yelenamerzlyakova.github.io/star-wars-crawl/)**
 
 
 ## Objectives
