@@ -33,6 +33,6 @@ Create a webpage that reproduces the text crawl at the beginning of the star war
 
 ## Improvements?
 
-* Add music 
+* Add music :musical_note:
 * Add better background
 * Infinite loop
